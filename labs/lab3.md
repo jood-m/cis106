@@ -42,5 +42,23 @@ sudo apt install zsh-theme-powerlevel9k
 
 ## Question 4
 ![q4](../imgs/lab3q4.png)
+![q41](../imgs/lab3q41.png)
+
+
+
+
+![q42](../imgs/lab3q42.png)
+
+
+
+
+
+
+
+![q43](../imgs/lab3q43.png)
 
 ## Question 5
+![q5](../imgs/lab3q5.png)  
+![q51](../imgs/lab3q51.png) 
+![q52](../imgs/lab3q52.png) 
+![q53](../imgs/lab3q53.png)
