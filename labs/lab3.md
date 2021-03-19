@@ -40,12 +40,19 @@ sudo apt install zsh-theme-powerlevel9k
 ## Question 3
 ![q3](../imgs/lab3q3.png)
 
+<<<<<<< HEAD
 ## Question 4 
  ![q4](../imgs/lab3q4.png)
+=======
+## Question 4
+![q4](../imgs/lab3q4.png)
+![q41](../imgs/lab3q41.png)
+>>>>>>> 2bc347f61afe71727b62aa154a2d7322f8421487
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -64,6 +71,8 @@ sudo apt install zsh-theme-powerlevel9k
 
 
 
+=======
+>>>>>>> 2bc347f61afe71727b62aa154a2d7322f8421487
 ![q42](../imgs/lab3q42.png)
 
 
@@ -74,6 +83,7 @@ sudo apt install zsh-theme-powerlevel9k
 
 ![q43](../imgs/lab3q43.png)
 
+<<<<<<< HEAD
 ## Question 5 
 
 
@@ -81,3 +91,10 @@ sudo apt install zsh-theme-powerlevel9k
 ![q51](../imgs/lab3q51.png) 
 ![q52](../imgs/lab3q52.png) 
 ![q53](../imgs/lab3q53.png)
+=======
+## Question 5
+![q5](../imgs/lab3q5.png)  
+![q51](../imgs/lab3q51.png) 
+![q52](../imgs/lab3q52.png) 
+![q53](../imgs/lab3q53.png)
+>>>>>>> 2bc347f61afe71727b62aa154a2d7322f8421487
