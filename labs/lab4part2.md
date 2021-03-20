@@ -18,6 +18,11 @@ Take a screenshot of your terminal showing all the commands that you used to com
 
 ![q1lab4](../imgs/lab42q1.png)
 
+
+
+
+
+
 Question 2 | Using the ? wildcard
 In the previous questions, we learned how to match multiple characters in a filename. Now, what happens when we want to match a specific number of characters. The following scenarios explore the use of the ? wildcard for matching a given number of characters.
 
@@ -37,6 +42,10 @@ Lets see another example, try to list all the files that have two letters betwee
 
 Take a screenshot of your terminal showing all the commands that you used to complete this question.
 ![q2lab4](../imgs/lab42q2.png)
+
+
+
+
 Question 3 | Using the [] Wildcard
 In the previous question we learned how to match a single or a given number of characters in a filename. Now, sometimes you want to match a range of characters. For example, all the files that start with a capital letter or a digit. This is possible with the [] wildcard which matches the range specified inside the []. Use the ~/lab4/question3 directory to solve this question.
 
@@ -55,12 +64,24 @@ You want to list all the files that do not start with capital letters and do not
 Take a screenshot of your terminal showing all the commands that you used to complete this question.
 ![q3lab4](../imgs/lab42q3.png)
 
+
+
+
+
+
 Question 4 | Using brace expansion.
 The curly braces are not a wildcard but they are equally useful. The curly braces allow you to generate arbitrary strings to use with commands.
 
 Problem 1:
 In the question4 directory, create the following directory structure. Display a tree of the directory once you have created. Your directory tree must look exactly like mine. Take a screenshot: 
 ![lab4](../imgs/lab4q4p1.png)
+
+
+
+
+
+
+
 
 wallpapers/
 ├── cars
@@ -71,9 +92,20 @@ wallpapers/
     ├── 1080p
     ├── 2k
     └── 4k
+    
+    
+    
+    
+    
 Problem 2:
 Clear your terminal. in the question4 directory, create the following directory structure. Display a tree of the directory once you have created. Your directory tree must look exactly like mine. Take a screenshot:
 ![lab44](../imgs/lab4q4p2.png)
+
+
+
+
+
+
 assets/
 ├── imgs
 │   ├── large
@@ -85,9 +117,20 @@ assets/
     │   └── source
     └── small
         └── source
+        
+        
+        
+        
 Problem 3:
 Clear your terminal. in the question4 directory, create the following directory structure. Display a tree of the directory once you have created. Your directory tree must look exactly like mine. Take a screenshot:
 ![lab4p2](../imgs/lab4q4p3.png)
+
+
+
+
+
+
+
 docs/
 ├── books
 │   ├── history
@@ -99,9 +142,31 @@ docs/
     ├── math
     ├── science
     └── social
+    
+    
+    
+    
+    
+    
+    
+    
 Problem 4:
 Clear your terminal. in the question4 directory, create the following directory structure. Display a tree of the directory once you have created. Your directory tree must look exactly like mine. Take a screenshot:
 ![lab4p4](../imgs/lab4q4p4.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Research/
 ├── books
 │   ├── math
@@ -119,12 +184,42 @@ Research/
     │   └── official
     └── videogames
         ├── fanmade
-        └── official
+        └── official.
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 Problem 5
 Clear your terminal. in the question4 directory, create the following directory structure. Display a tree of the directory once you have created. Your directory tree must look exactly like mine. Take a screenshot:
+
+
+
 ![lab4p5](../imgs/lab4q4p5.png)
+
+
+
+
 ![lab4q52](../imgs/lab4q4p522.png)
+
+
+
+
+
 ![lab4p53](../imgs/lab4q4p53.png)
+
+
+
+
+
+
+
+
 
 backup/
 ├── files
@@ -154,4 +249,9 @@ backup/
 │       ├── high
 │       └── low
 └── random
+
+
+
+
+
 Take a screenshot of your terminal showing all the commands that you used to complete this question.
