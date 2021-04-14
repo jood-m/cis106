@@ -16,7 +16,7 @@
 ![macoslogo](https://www.pinpointlabs.com/wp-content/uploads/2019/01/MACOS-LOGO.png)
 
 * **FreeBSD** is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), which was based on Research Unix.
-![frebsd](https://www.freebsd-fr.org/wp-content/uploads/2017/02/logo-freebsd-dowload.png)
+![freebsd](https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Freebsd_logo.svg/1024px-Freebsd_logo.svg.png)
 
 * **RISC OS** is a computer operating system originally designed by Acorn Computers Ltd in Cambridge, England.
 
