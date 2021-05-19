@@ -2,12 +2,41 @@
 
 
 **table of content**
--[NOTE#1](notes#1.md)
--[NOTE#2](notes#2.md)
--[NOTE#3](notes#3.md)
--[NOTE#4](notes#4.md)
--[NOTE#5](notes#5.md)
--[NOTE#6](notes#6.md)
+
+
+- [Notes#1](#notes1)
+  - [what is linux](#what-is-linux)
+  - [What is a Linux Distribution?](#what-is-a-linux-distribution)
+  - [The History of GNU/Linux](#the-history-of-gnulinux)
+  - [Open Source Vs Closed Source Vs Free Software](#open-source-vs-closed-source-vs-free-software)
+  - [What is Ubuntu?](#what-is-ubuntu)
+
+- [Notes#2](#notes2)
+  - [What Is Virtualization?](#what-is-virtualization)
+  - [Using Virtual Box](#using-virtual-box)
+  - [Installing ubuntu 20.04 in VM with VB](#installing-ubuntu-2004-in-vm-with-vb)
+      - [now you have setup the ubuntu machine but lets fine-tune our machine settings ->](#now-you-have-setup-the-ubuntu-machine-but-lets-fine-tune-our-machine-settings--)
+- [notes#3](#notes3)
+  - [Exploring Desktop Environments](#exploring-desktop-environments)
+  - [What Is The Shell](#what-is-the-shell)
+  - [Managing Software](#managing-software)
+  - [Linux Filesystem](#linux-filesystem)
+- [Notes#4](#notes4)
+  - [Commands are often followed by an option that modify/enhance them.](#commands-are-often-followed-by-an-option-that-modifyenhance-them)
+  - [-l is the option followed by the dir name](#-l-is-the-option-followed-by-the-dir-name)
+  - [getting help](#getting-help)
+  - [WILD CARDS](#wild-cards)
+- [NOTE#5](#note5)
+  - [VIM](#vim)
+  - [NANO](#nano)
+  - [Important Features](#important-features)
+- [NOTES#6](#notes6)
+  - [MANAGING DATA](#managing-data)
+  - [examples and usage for tar](#examples-and-usage-for-tar)
+  - [CPIO EXAMPLE](#cpio-example)
+  - [AR](#ar)
+  - [FILE COMPRESSION](#file-compression)
+  - [FILE PERMISSIONS](#file-permissions)
 
 
 
